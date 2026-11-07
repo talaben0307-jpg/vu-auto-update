@@ -1,0 +1,7 @@
+{
+  "version": "6.56.0",
+  "date": "2026-11-07",
+  "file": "vfx_bom_6.56.0.rbz",
+  "sha256": "ab1e3c79e237ad6e53e42adbe03674d2e12e1def80e729d523fdf94d7fe63cae",
+  "notes": "VFX-BOM 6.56.0: thêm Kiểm tra bản mới (Plugins > VFX-BOM), tự làm mới bảng khi mô hình thay đổi. Bản đã mã hóa và ký bởi Trimble."
+}
